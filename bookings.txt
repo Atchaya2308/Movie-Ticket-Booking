@@ -1,0 +1,3 @@
+Name: Atchaya, Theater: Theater 1, Movie: Kalki, Tickets: 3, Seats: 2,3,4, Total Amount: 510.00
+Name: Ananth, Theater: Theater 3, Movie: Goat, Tickets: 2, Seats: 5,7, Total Amount: 500.00
+Name: Priya, Theater: Kasi Theater, Movie: Star, Tickets: 4, Seats: 8,9,10,11, Total Amount: 720.00
